@@ -1,4 +1,5 @@
 # Hi there 👋, I'm Heet
+![](https://komarev.com/ghpvc/?username=itsme12453)
 >I am a 15 year old programmer with a passion for programming, cyber security and AI/ML
 I specialise in building mobile apps, full stack apps, programs to solve specific programs, and much more!
 
