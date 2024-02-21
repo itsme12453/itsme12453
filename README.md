@@ -7,7 +7,6 @@ I specialise in building mobile apps, full stack apps, programs to solve specifi
 - 🌱 I’m currently learning cyber security
 - 👯 I’m looking to collaborate on any projects you have in mind!
 - 📫 How to reach me: heet5175@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've been programming nearly every day since 12 years old!
 
 <h3 align="left">Languages and Tools:</h3>
