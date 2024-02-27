@@ -6,7 +6,7 @@ I specialise in building mobile apps, full stack apps, and all sorts of programs
 - 🔭 I’m currently working on an AI Forms Builder - It allows you to create forms and quizes with AI, which can be automatically marked with AI.
 - 🌱 I’m currently learning cyber security
 - 👯 I’m looking to collaborate on any projects you have in mind!
-- 📫 How to reach me: heet5175@gmail.com
+- 📫 How to reach me: spencerlytle12@gmail.com
 - ⚡ Fun fact: I've been programming nearly every day since 12 years old!
 
 <h3 align="left">Languages and Tools:</h3>
